@@ -1,11 +1,11 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM alpine:3.19
 
 # Setează variabilă de mediu pentru limba corectă 
 ENV LANG C.UTF-8
 
 # Instalează Nginx, utilitare și pachetele pentru PHP 8.2 + MariaDB Client
 RUN apk add --no-cache \
+    bash \
     nginx \
     jq \
     curl \
