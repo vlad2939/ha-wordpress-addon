@@ -2,7 +2,7 @@
 
 [![Supports aarch64 Architecture][aarch64-shield]][aarch64] [![Supports amd64 Architecture][amd64-shield]][amd64]
 
-**Instalează WordPress complet, cu PHP 8.2 și Nginx. Servește datele și fișierele nativ din folderul /share/wordpress din Home Assistant.**
+**Addon care instalează WordPress complet, cu PHP 8.2 și Nginx. Servește datele și fișierele nativ din folderul /share/wordpress din Home Assistant.**
 
 ---
 
