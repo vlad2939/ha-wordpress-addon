@@ -46,13 +46,6 @@ db_name: "wordpress"
 
 ---
 
-## 📝 Suport / Issues
-
-Dacă întâmpini probleme cu acest Add-on poți deschide un raport pe pagina Github dedicată:
-[https://github.com/vlad2939/ha-wordpress-addon/issues](https://github.com/vlad2939/ha-wordpress-addon/issues).
-
----
-
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aarch64]: https://home-assistant.io
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
