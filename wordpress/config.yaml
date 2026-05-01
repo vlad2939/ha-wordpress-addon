@@ -1,6 +1,6 @@
 name: "WordPress Full Option"
 description: "Instalează WordPress complet, cu PHP 8.2 și Nginx. Servește datele și fișierele nativ din folderul /share/wordpress din Home Assistant."
-version: "1.0.0"
+version: "1.0.1"
 slug: "wordpress_full"
 init: false
 arch:
